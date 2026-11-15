@@ -1,0 +1,218 @@
+[
+  {
+    "id": "vt-hc-250t",
+    "name": "Heavy-Duty Industrial Hydraulic Cylinder",
+    "category": "Hydraulic Systems",
+    "shortDescription": "Precision-honed double-acting hydraulic cylinder engineered for high-pressure stamping, pressing, and heavy industrial actuation.",
+    "fullDescription": "The VT-HC series hydraulic cylinders are engineered for demanding continuous-duty applications where thermal surge pressures and shock loads occur. Constructed from high-tensile cold-drawn ST52 steel tubing with internal micro-honing down to Ra 0.2 µm, each unit features an induction-hardened, hard-chrome-plated piston rod and multi-lip polyurethane step-seal packaging.",
+    "image": "https://images.unsplash.com/photo-1581092162384-8987c1d64718?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1581092162384-8987c1d64718?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "specifications": [
+      { "label": "Bore Diameters", "value": "Ø 50 mm to Ø 320 mm" },
+      { "label": "Stroke Length", "value": "Up to 3,500 mm" },
+      { "label": "Working Pressure", "value": "250 Bar (Test 350 Bar)" },
+      { "label": "Rod Surface Finish", "value": "Hard Chrome 25-30 µm (Ra 0.15 µm)" },
+      { "label": "Barrel Material", "value": "ST52 / E355 Cold Drawn Honed" },
+      { "label": "Mounting Options", "value": "Front Flange, Trunnion, Clevis, Foot" },
+      { "label": "Temperature Range", "value": "-25°C to +90°C" }
+    ],
+    "applications": [
+      "Metal Stamping & Hydraulic Forging Presses",
+      "Civil Infrastructure & Dam Gates",
+      "Heavy Scrap Metal Balers & Compactors",
+      "Offshore & Marine Lifting Cranes"
+    ],
+    "features": [
+      "Induction-hardened chrome rod resists side-impact deflection",
+      "Dual polyurethane gland step-seals prevent external weeping",
+      "Adjustable end-position progressive cushioning for impact absorption",
+      "Tested 100% via hydrostatic pressure schedule prior to shipment"
+    ],
+    "cadFormatsAvailable": ["STEP AP242", "Parasolid .x_t", "AutoCAD 2D DWG", "3D PDF"],
+    "isPlaceholder": true
+  },
+  {
+    "id": "vt-rt-8s",
+    "name": "Precision Cam Rotary Indexing Table",
+    "category": "Special Purpose Machines",
+    "shortDescription": "High-accuracy globoidal cam indexing table designed for automated multi-station assembly, drilling, and robotic lines.",
+    "fullDescription": "The VT-RT series provides high mechanical repeatability and smooth acceleration curves without backlash. Engineered with a hardened and ground globoidal cam engaging preloaded needle-bearing cam followers, it converts uniform input shaft rotation into intermittent index motion for multi-station assembly carousels.",
+    "image": "https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1581093588401-fbb62a02f120?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "specifications": [
+      { "label": "Station Configs", "value": "4, 6, 8, 12, 16 Stops" },
+      { "label": "Indexing Accuracy", "value": "± 15 Arc Seconds" },
+      { "label": "Dial Plate Capacity", "value": "Ø 500 mm to Ø 1,400 mm" },
+      { "label": "Max Dynamic Payload", "value": "Up to 600 kg (balanced)" },
+      { "label": "Cycle Speed", "value": "1.5 to 4.0 sec/index" },
+      { "label": "Drive Compatibility", "value": "SEW / Bonfiglioli Servo or Brake Motor" },
+      { "label": "Housing", "value": "Heavy-wall Grey Cast Iron FC25" }
+    ],
+    "applications": [
+      "Automotive Multi-Station Component Assembly",
+      "Pharmaceutical Rotary Packaging & Capping",
+      "Robotic Fixture Turntables & Welding Cells",
+      "Automatic Multi-Spindle Drilling & Tapping"
+    ],
+    "features": [
+      "Zero-backlash globoidal cam mechanism for prolonged precision life",
+      "Cast iron housing dampens high-frequency indexing vibrations",
+      "Direct central hollow-shaft option for pneumatic and sensor harness routing",
+      "Splash-lubricated internal sump requires minimal maintenance"
+    ],
+    "cadFormatsAvailable": ["STEP AP242", "SolidWorks .sldasm", "Autodesk Inventor", "AutoCAD DWG"],
+    "isPlaceholder": true
+  },
+  {
+    "id": "vt-pgb-12k",
+    "name": "High-Torque Planetary Reduction Gearbox",
+    "category": "Power Transmission",
+    "shortDescription": "Robust multi-stage planetary gearbox engineered for extreme-duty industrial material handling, mining, and winches.",
+    "fullDescription": "Engineered for high power density within compact envelope constraints, the VT-PGB series planetary gearboxes feature case-hardened and ground sun and planet gears (18CrNiMo7-6) mounted inside ductile iron housing structures. The multi-planet carrier architecture distributes torque equally across sun gears, achieving up to 96% efficiency per stage.",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "specifications": [
+      { "label": "Output Torque", "value": "2,800 Nm to 48,000 Nm" },
+      { "label": "Reduction Ratios", "value": "3.5:1 to 450:1 (1 to 4 Stages)" },
+      { "label": "Gear Material", "value": "18CrNiMo7-6 Case-Hardened" },
+      { "label": "Housing Grade", "value": "Ductile Iron GGG-40 / EN-GJS-400" },
+      { "label": "Backlash", "value": "Standard < 8 arcmin (Low < 3 arcmin)" },
+      { "label": "Stage Efficiency", "value": "96% per stage" },
+      { "label": "Input Configurations", "value": "IEC Motor Flange, Splined, Keyed" }
+    ],
+    "applications": [
+      "Industrial Bulk Material Handling Conveyors",
+      "Heavy Concrete & Chemical Mixer Agitators",
+      "Mining Sizers, Ball Mills & Crushers",
+      "Offshore Winch & Crane Slewing Drives"
+    ],
+    "features": [
+      "Crowned gear tooth geometry for optimal flank contact under deflection",
+      "Taper roller bearings on output shaft resist extreme axial & radial loads",
+      "High thermal capacity casing with optional cooling coil integration",
+      "100% end-of-line spin tested with vibration FFT analysis"
+    ],
+    "cadFormatsAvailable": ["STEP AP242", "Parasolid", "IGES", "3D PDF"],
+    "isPlaceholder": true
+  },
+  {
+    "id": "vt-hmb-18",
+    "name": "Custom CNC-Milled Hydraulic Manifold Block",
+    "category": "Hydraulic Systems",
+    "shortDescription": "Monoblock hydraulic distribution manifold with integrated cavity routing for high-pressure industrial systems.",
+    "fullDescription": "Our custom hydraulic manifold blocks replace complex, leak-prone pipe networks with a compact, unified distribution module. Milled from certified ductile iron or aerospace aluminium blocks, each manifold incorporates cross-drilled flow galleries designed to minimize laminar turbulence and fluid velocity pressure drops.",
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1581093588401-fbb62a02f120?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "specifications": [
+      { "label": "Rated Pressure", "value": "350 Bar (Aluminium 210 Bar)" },
+      { "label": "Flow Capacity", "value": "Up to 300 L/min" },
+      { "label": "Standard Cavities", "value": "Sun, Rexroth, HydraForce Standard" },
+      { "label": "Port Connections", "value": "BSPP ISO 1179-1 / SAE J1926-1" },
+      { "label": "Internal Cleanliness", "value": "ISO 4406 Class 16/14/11" },
+      { "label": "Surface Coating", "value": "Electroless Nickel / Black Phosphate" },
+      { "label": "Block Material", "value": "Ductile Iron 65-45-12 / Al 6061-T6" }
+    ],
+    "applications": [
+      "Mobile Construction Machinery Powerpacks",
+      "Industrial Injection Molding Clamp Units",
+      "High-Pressure Lubrication & Cooling Rigs",
+      "CNC Machine Tool Hydraulic Power Units (HPU)"
+    ],
+    "features": [
+      "Zero cross-channel breakout guaranteed by 3D CAD clearance verification",
+      "Ultrasonically deburred and flushed in dedicated cleanroom tank",
+      "Plugs with Viton O-rings pre-torqued and pressure tested",
+      "Laser-etched port markings (P, T, A, B, G) for straightforward field hookup"
+    ],
+    "cadFormatsAvailable": ["STEP AP242", "AutoCAD DWG Layout", "3D PDF", "Hydraulic Schematic PDF"],
+    "isPlaceholder": true
+  },
+  {
+    "id": "vt-imp-450",
+    "name": "5-Axis CNC Milled Aerodynamic Impeller",
+    "category": "Precision Components",
+    "shortDescription": "High-speed precision impeller with 3D twisted aerodynamic blades for compressors, turbines, and centrifugal equipment.",
+    "fullDescription": "Precision machined directly from solid billet forging using continuous 5-axis CNC machining centers, the VT-IMP series eliminates structural weaknesses found in cast impellers. Blade profiles undergo computational aerodynamic verification for optimal pressure ratios, and finished units are dynamically balanced to ISO 1940 Grade G1.0.",
+    "image": "https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "specifications": [
+      { "label": "Diameter Range", "value": "Ø 120 mm to Ø 550 mm" },
+      { "label": "Rotational Speed", "value": "Up to 45,000 RPM" },
+      { "label": "Balancing Quality", "value": "ISO 1940 Grade G1.0 / G0.4" },
+      { "label": "Material Options", "value": "Al 7075-T6 / SS 316L / Titanium Gr 5" },
+      { "label": "Surface Roughness", "value": "Ra 0.6 µm (Blades) / Ra 0.4 µm (Bore)" },
+      { "label": "Bore Tolerance", "value": "ISO H6 Precision Bore with Keyway" },
+      { "label": "Inspection", "value": "CMM 3D Coordinate Report Included" }
+    ],
+    "applications": [
+      "Industrial Centrifugal Compressors & Blowers",
+      "Turbine Expander Systems & Turbochargers",
+      "Chemical & Slurry Centrifugal Pumps",
+      "Aerospace Ventilation & Environmental Control"
+    ],
+    "features": [
+      "Machined from solid forged billet for superior fatigue and burst strength",
+      "Complex 3D ruled and free-form blade profiles with G2 curvature continuity",
+      "Non-destructive testing (NDT) dye-penetrant inspection verified",
+      "Supplied with certified dynamic balancing report certificate"
+    ],
+    "cadFormatsAvailable": ["STEP AP242", "Siemens NX .prt", "IGES", "Inspection CMM Data"],
+    "isPlaceholder": true
+  },
+  {
+    "id": "vt-pbh-08",
+    "name": "Heavy-Duty Split Pillow Block Bearing Housing",
+    "category": "Industrial Components",
+    "shortDescription": "Standardized two-piece modular bearing housing designed for heavy rotating industrial shafts under severe vibration.",
+    "fullDescription": "The VT-PBH series split bearing housings are engineered to safeguard spherical roller bearings in heavy industrial environments. Built with high-strength ductile iron bases, reinforced cap ribs, and integrated labyrinth seals, they prevent lubricant escape and particulate contamination in dusty or wet operational environments.",
+    "image": "https://images.unsplash.com/photo-1581092795360-fd1ca04f0952?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1581092795360-fd1ca04f0952?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1581092162384-8987c1d64718?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "specifications": [
+      { "label": "Shaft Diameters", "value": "Ø 40 mm to Ø 160 mm" },
+      { "label": "Housing Grade", "value": "EN-GJS-400 / Cast Steel GS-45" },
+      { "label": "Sealing Types", "value": "Labyrinth, V-Ring, Felt Seals" },
+      { "label": "Lubrication", "value": "Grease Relubrication / Oil Bath" },
+      { "label": "Mounting", "value": "2-Bolt & 4-Bolt Base Flange" },
+      { "label": "Dimensional Standard", "value": "ISO 113 Series Compatible" },
+      { "label": "Operating Temp", "value": "-30°C to +130°C" }
+    ],
+    "applications": [
+      "Bulk Cement Plant Clinker Conveyors",
+      "Quarry Vibrating Screens & Jaw Crushers",
+      "Industrial Ventilators & Induced Draft Fans",
+      "Pulp & Paper Processing Roller Drives"
+    ],
+    "features": [
+      "Two-piece split construction enables fast bearing inspection and replacement",
+      "Ductile iron cap ribs prevent bore distortion under extreme radial loading",
+      "Precision-machined bearing seat bore (ISO H7) prevents outer-ring creep",
+      "Grease relief drain port avoids over-greasing hydraulic pressure build-up"
+    ],
+    "cadFormatsAvailable": ["STEP AP242", "AutoCAD 2D DWG", "SolidWorks Part", "3D PDF"],
+    "isPlaceholder": true
+  }
+]
